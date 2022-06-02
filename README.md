@@ -10,10 +10,12 @@ Statistics and Hypothesis testing to analyze a series of datasets from the autom
 - We used R application and designed a linear model that predicts the mpg of MechaCar prototypes using several variables and multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance for each vehicle.
 
 (a)
+
 ![Deliv 1 Statistical smmry](https://user-images.githubusercontent.com/93893263/171704496-48eddbde-7e27-4d8d-981e-c28633932705.png)
 
 
 (b)
+
 ![RL Model on all Six Variables](https://user-images.githubusercontent.com/93893263/171705023-569271be-93de-40a8-aca3-89efe6f90010.png)
 
 ## Summary Statics on Suspension Coil
